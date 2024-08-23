@@ -1,6 +1,6 @@
 {
     "name": "Agrega links",
-    "short_name": "AL",
+    "short_name": "AgregaLinks",
     "description": "Um serviço para agregar links utéis.",
     "start_url": "/AgregaLinks/index.html",
     "display": "standalone",
