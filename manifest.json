@@ -2,7 +2,7 @@
     "name": "Agrega links",
     "short_name": "Agrega links",
     "description": "Um serviço para agregar links utéis.",
-    "start_url": "index.html",
+    "start_url": "/",
     "display": "fullscreen",
     "background_color": "#ffffff",
     "theme_color": "#000000",
